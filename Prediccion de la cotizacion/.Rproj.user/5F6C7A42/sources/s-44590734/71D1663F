@@ -1,0 +1,26 @@
+{
+    "id": "71D1663F",
+    "path": "~/Big Data/Clases/Tipitalka App Shiny/Prediccion de la cotizacion/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1603169592377.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "113,6",
+        "scrollLine": "62"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1603170253,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1603383314123,
+    "read_only": false,
+    "read_only_alternatives": []
+}
